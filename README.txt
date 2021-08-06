@@ -15,7 +15,7 @@ HTML CSS Javascript
 Git  GitHub GitLab
 Jira Confluence Bitbucket
 
-🛠 iOS Tech Stack
+🛠 📱 iOS Tech Stack
 UIKit SwiftUI ObjectiveC
 MVC MVVM VIPER CleanArchitecture
 Structural, Creational and Behavioural Patterns
