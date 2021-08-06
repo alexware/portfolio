@@ -17,7 +17,8 @@ Jira Confluence Bitbucket
 
 🛠 iOS Tech Stack
 UIKit SwiftUI ObjectiveC
-MVC MVVM VIPER CleanArchitecture Patterns
+MVC MVVM VIPER CleanArchitecture
+Structural, Creational and Behavioural Patterns
 Modularization Componentization XCFrameworks
 Concurrency Threading GCD
 UnitTesting UITesting SnapshotTesting
