@@ -22,7 +22,7 @@ Structural, Creational and Behavioural Patterns
 Modularization Componentization XCFrameworks
 Concurrency Threading GCD
 UnitTesting UITesting SnapshotTesting
-Refactoring and LegacyCode
+Refactoring and LegacyCode challenge
 Security Ofuscation SSLPinning Crypto Hash
 Autolayout VisualProgramming
 Cocoapods Carthage SPM
