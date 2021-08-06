@@ -1,6 +1,6 @@
 👨🏻‍💻  About Me
 💡  I'm an iOS Software Engineer and technology researcher at Barcelona, currently working in personal projects and learning day by day.
-🎓  I studied Computer Science and Engineering at UAB Barcelona (2017-2021), and made some Bachelors and Masters about IT and Business eco
+🎓  I studied Computer Science and Engineering at UAB Barcelona and made some Bachelors and Masters about IT and Business services.
 🌱  I'm on track for learning more about new methodologies, architectures, patterns, security, blockchain and more...
 ✍️  In my free time, I play racket games, practice kitesurfing, traveling, meet with my friends as my hobbies.
 💬  Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!
