@@ -1,31 +1,23 @@
-Paradigm Shift by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+👨🏻‍💻  About Me
+💡  I'm an iOS Software Engineer and technology researcher at Barcelona, currently working in personal projects and learning day by day.
+🎓  I studied Computer Science and Engineering at UAB Barcelona (2017-2021), and made some Bachelors and Masters about IT and Business eco
+🌱  I'm on track for learning more about new methodologies, architectures, patterns, security, blockchain and more...
+✍️  In my free time, I play racket games, practice kitesurfing, traveling, meet with my friends as my hobbies.
+💬  Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!
+✉️  You can email me at innovalonia@gmail.com. I'll try to respond as soon as possible!
+📄  You can check my Resume for more details about work experience.
 
+🛠  Tech Stack
+iOS Swift ObjectiveC Bash Jenkins
+SOLID CleanArchitecture TDD
+XCode AppCode VisualStudioCode
+HTML CSS Javascript
+Git  GitHub GitLab
+Jira Confluence Bitbucket
 
-Say hello to Paradigm Shift, my first addition to HTML5 UP in more than a year (!!!).
-Took things in a slightly different direction with this one, partly to mess with CSS
-grid (which this one relies on pretty heavily) but mostly to get back to making weirder
-and more experimental designs/layouts. Anyway, hope you dig it, and thanks for the
-continued support despite the lack of updates :)
-
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+🛠 iOS Tech Stack
+UIKit SwiftUI ObjectiveC
+MVC MVVM VIPER CleanArchitecture
+Autolayout VisualProgramming
+Cocoapods Carthage SPM
+CoreData Realm SQLite
