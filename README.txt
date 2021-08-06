@@ -21,6 +21,7 @@ MVC MVVM VIPER CleanArchitecture Patterns
 Modularization Componentization XCFrameworks
 Concurrency Threading GCD
 UnitTesting UITesting SnapshotTesting
+Refactoring and LegacyCode
 Security Ofuscation SSLPinning Crypto Hash
 Autolayout VisualProgramming
 Cocoapods Carthage SPM
