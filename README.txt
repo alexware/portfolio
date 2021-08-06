@@ -9,7 +9,7 @@
 
 🛠  Tech Stack
 iOS Swift ObjectiveC Bash Jenkins
-SOLID CleanArchitecture TDD
+SOLID CleanArchitecture TDD DI
 XCode AppCode VisualStudioCode
 HTML CSS Javascript
 Git  GitHub GitLab
@@ -17,7 +17,11 @@ Jira Confluence Bitbucket
 
 🛠 iOS Tech Stack
 UIKit SwiftUI ObjectiveC
-MVC MVVM VIPER CleanArchitecture
+MVC MVVM VIPER CleanArchitecture Patterns
+Modularization Componentization XCFrameworks
+Concurrency Threading GCD
+UnitTesting UITesting SnapshotTesting
+Security Ofuscation SSLPinning Crypto Hash
 Autolayout VisualProgramming
 Cocoapods Carthage SPM
 CoreData Realm SQLite
